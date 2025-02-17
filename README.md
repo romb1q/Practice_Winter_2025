@@ -1,3 +1,2 @@
-# Practice_Winter_2025
+# Practice_2025_MES_Tasks
 Biruk Roman BSTU
-MES Tasks

@@ -1,0 +1,16 @@
+{
+  "files": [],
+  "references": [
+    { "path": "./tsconfig.app.json" },
+    { "path": "./tsconfig.node.json" }
+  ],
+
+  "compilerOptions": {
+    "outDir": "./build",
+    "rootDir": "./src",
+    "target": "ES2018",
+    "module": "CommonJS",
+    "strict": true,
+    "esModuleInterop": true
+  }
+}
